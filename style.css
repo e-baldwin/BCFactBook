@@ -1,0 +1,74 @@
+/*CSS Style File , BC Fact Book*/
+
+.background{
+    background-color:lightyellow;
+
+}
+#header{
+    font-size: 30px;
+    font: bold;
+    color: maroon;
+    text-align: center;
+}
+#image{
+    float:right;
+    padding: 15px;
+    position: absolute;
+    right: 10px;
+    top:130px;
+}
+#image2{
+    float: right;
+    right: 10px;
+    padding: 15px;
+    position: absolute;
+    
+    top: 700px;
+}
+
+#content{
+   
+    padding: 20px;
+    display: inline-block;
+    border: black;
+    top:150px;
+}
+.textbox{
+    width: 450px;
+}
+
+.button{
+    
+    border: none;
+    color: maroon;
+    top:50px;
+    float: left;
+   
+    padding: 5px 5px;
+    text-align: center;
+    position: static;
+    font-size: 16px;
+    
+    border: 2px solid black;
+    
+
+}
+
+.button:hover{
+    background-color: white;
+    color:black;
+    
+}
+#hyperlink{
+    font-size: 20px;
+    position:absolute;
+    top:650px;
+    right:40px;
+
+
+}
+.generate{
+    float:left;
+    padding:10px;
+    border: black;
+}
